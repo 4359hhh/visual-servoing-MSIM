@@ -20,12 +20,21 @@ pip install --user torchvision
 # If you find this code useful, consider citing our work:
 
 @article{ ,
+
   author    = {Yaozhen He, Jian Gao and Yimin Chen},
+  
   title     = {},
+  
   journal   = {},
+  
   volume    = {},
+  
   number    = {},
+  
   pages     = {},
+  
   year      = {},
+  
   doi       = {}
+  
 }
