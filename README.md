@@ -1,9 +1,14 @@
 # Setup
 All our code is implemented in Python. Installation instructions are as follows:
+
 pip install --user pytorch-gpu
+
 pip install --user numpy
+
 pip install --user matplotlib
+
 pip install --user torchvision
+
 
 # Make sure you have following files in your directory, in order to run the various examples:
 
